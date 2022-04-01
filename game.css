@@ -1,0 +1,27 @@
+h3 {
+    color: blue;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 50px;
+}
+
+#username_1 {
+    color: black;
+    font-family: 'Hurricane', cursive;
+    font-size: 30px;
+}
+
+#player1_name_input {
+   background-color: grey;
+   color: white;
+   font-family: 'Courier New', Courier, monospace;
+}
+#player2_name_input {
+    background-color: grey;
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+ }
+ h1 {
+    color: #ff0073;
+    font-family: 'Dancing Script', cursive;
+    font-size: 60px; 
+ }
